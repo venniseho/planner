@@ -1,10 +1,10 @@
-# All-in-One Student Planner
+# Planner
 
 > **Status:** Planning complete for the first development milestone; implementation not started.
 
 ## Why this project exists
 
-Student productivity tools often split assignments, daily planning, focus sessions, and calendars across separate apps. Rigid time blocking can make starting work feel overwhelming. This project is an attempt to create a **low-friction, customizable planner**: capture a task quickly, choose a day (not a time), and let unfinished work gently roll into today. It begins as a personal tool but is architected for potential use by other students. It draws inspiration from existing tools without reproducing their proprietary designs.
+Productivity tools often split TODO lists, daily planning, focus sessions, and calendars across separate apps. Rigid time blocking can make starting work feel overwhelming. This project is an attempt to create a **low-friction, customizable planner**: capture a task quickly, choose a day (not a time), and let unfinished work gently roll into today. It begins as a personal tool but is architected for potential use by others in the future. 
 
 ## Product vision
 
